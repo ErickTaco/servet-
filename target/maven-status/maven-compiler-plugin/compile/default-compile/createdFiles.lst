@@ -1,0 +1,10 @@
+datos\PruebaDAO.class
+web\ServletControlador.class
+datos\ColectivodeArtesPopularesDAO.class
+web\login.class
+dominio\Login.class
+dominio\ColectivodeArtesPopulares.class
+dominio\prueba.class
+datos\Conexion.class
+.netbeans_automatic_build
+datos\loginDAO.class
